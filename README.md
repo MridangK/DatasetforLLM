@@ -1,1 +1,1 @@
-# DatasetforLLM
+# Created this dataset to work on a project to convert english text to oria or hindi. This repository will mainly contain json files and we are creating for the following https://github.com/OdiaGenAI/GenerativeAI_and_LLM_Odia repository
